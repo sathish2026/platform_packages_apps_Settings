@@ -341,4 +341,9 @@
     <!-- Visible vertical space we want to show below password edittext field when ime is shown.
          The unit is sp as it is related to the text size of password requirement item. -->
     <dimen name="visible_vertical_space_below_password">20sp</dimen>
+
+    <!-- Color engine -->
+    <dimen name="theme_preview_actionbar_size">15dp</dimen>
+    <dimen name="theme_color_margin_side">20dp</dimen>
+
 </resources>
